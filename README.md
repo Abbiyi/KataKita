@@ -25,15 +25,15 @@ Password: 11111111
 
 ![image](https://github.com/user-attachments/assets/2a52f58a-f115-4e6e-9071-58850cfc65bf)
 
-## 2. Kelola Artikel
+## 2. Kelola Artikel (CRUD)
 
 ![image](https://github.com/user-attachments/assets/0b5d5db0-067f-46f8-80f4-5f80304f11cd)
 
-## 3. Kelola Author
+## 3. Kelola Author (CRUD)
 
 ![image](https://github.com/user-attachments/assets/23a32a90-e424-425e-b44c-168e15aa9d9a)
 
-## 4. Kategori
+## 4. Kategori (CRUD)
 
 ![image](https://github.com/user-attachments/assets/33e777b6-e489-4106-ae9f-9372ba00c90f)
 
@@ -41,9 +41,30 @@ Password: 11111111
 
 ![image](https://github.com/user-attachments/assets/b74fe949-7016-4ade-9953-84fe71045eb0)
 
-6. f
-7. f
-8. f
-9. f
-10. 
+### Halaman User
+
+Username: Fauzan
+
+Password: 33333333
+
+## 1. Daftar Artikel
+
+![image](https://github.com/user-attachments/assets/f024510f-0c98-4070-a3d6-9f2fa5b038dd)
+
+## 2. Detail Artikel
+
+![image](https://github.com/user-attachments/assets/0da9e7fb-442b-49a3-b058-481d0909bd4e)
+
+## 3. Artikel Saya (CRUD)
+
+![image](https://github.com/user-attachments/assets/3e4c4037-bec8-400b-a115-7373dd74fd2d)
+
+## 4. Profile
+
+![image](https://github.com/user-attachments/assets/bb222d56-4223-4f5f-a3e7-9f27c264099a)
+
+### Halaman Guest
+
+![image](https://github.com/user-attachments/assets/96984181-4974-4334-8f86-d06ed79a7f09)
+
 
